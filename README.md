@@ -35,6 +35,3 @@ Say what the step will be
 3) send it by pressing "send" button in app
 4) see names of detected face by pressing "see names" button.
 ```
-![login page.png](https://bitbucket.org/repo/64zBgzX/images/656716240-login%20page.png)
-![capture image.png](https://bitbucket.org/repo/64zBgzX/images/1636533389-capture%20image.png)
-![see names.jpg](https://bitbucket.org/repo/64zBgzX/images/2531102676-see%20names.jpg)
